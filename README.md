@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Je suis un jeune passioné par le developpement web.<br>
+Alors suivez moi pour de nouvelle aventure.
 <!--
 **Ibra900/ibra900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
